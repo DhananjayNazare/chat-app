@@ -1,6 +1,7 @@
 {
   "name": "chat",
   "version": "0.0.1",
+  "main": "index.js"
   "description": "a simple socket.io chat app",
   "dependencies": {
     "express": "^4.10.2",
